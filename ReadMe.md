@@ -52,9 +52,9 @@
 - [Aho Corasick String Matching](https://www.geeksforgeeks.org/aho-corasick-algorithm-pattern-searching/)
 - [Counting Sort](https://www.geeksforgeeks.org/counting-sort/)
 - Manacher’s algorithm: 
-    - [Part 1](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/), [Part 2](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-2/) and [Part 3](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-3-2/)
+    - [Part 1](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-1/), [Part 2](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring-part-2/) and [Part 3](https://www.geeksforgeeks.org/manachers-algorithm-linear-time-longest-palindromic-substring---part-3-2/)
 
-All Articles on [Searching](https://www.geeksforgeeks.org/category/searching/), [Sorting](https://www.geeksforgeeks.org/category/sorting/) and [Pattern Searching](https://www.geeksforgeeks.org/category/pattern-searching/).
+- All Articles on [Searching](https://www.geeksforgeeks.org/category/searching/), [Sorting](https://www.geeksforgeeks.org/category/sorting/) and [Pattern Searching](https://www.geeksforgeeks.org/category/pattern-searching/).
 
 
 ##  Number theory and Other Mathematical
